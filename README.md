@@ -1,4 +1,4 @@
-# SIO Retail Database
+# Retail Operations Database System
 
 ## Project Overview
 *SIO Retail Database* is a SQL-based database system designed to manage a medium retail environment.  
